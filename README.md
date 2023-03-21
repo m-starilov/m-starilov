@@ -4,7 +4,7 @@
 
 ### I'm a Junior Software Test Automation Engineer
 
-📋 [Take a look at my CV](https://docs.google.com/document/d/1Scp-s3iINnAK7hD1-S6nAm2yZaeCBMOg/edit?usp=sharing&ouid=105973740139768412408&rtpof=true&sd=true)
+📋 [Take a look at my resume](https://docs.google.com/document/d/1uGrNz3F2RMFFDdYjHyg-Uoc8NfxauXwUqDv-2BCg9hk/edit?usp=sharing)
 
 ## Languages and Tools
 
